@@ -204,10 +204,6 @@ python test_api.py
 
 ## 🧑‍💻 Author
 
-Built by 
-**SaiKiran Tumeshpeta ** 
+Built by  
 ** Riya **
-** Rohini **
-
-
-🔗 Connect: [LinkedIn](https://www.linkedin.com/in/saikirantumeshpeta/) | [GitHub](https://github.com/SAIKIRAN-TUMESHPETA-DATASCIENTIST)
+** Palak **
