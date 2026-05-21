@@ -1,0 +1,15 @@
+# Virtual Environments
+churnvenv/
+venv310/
+venv/
+ENV/
+
+# Python Bytecode/Caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit/IDEs
+.streamlit/config.toml
+.vscode/
+.idea/
