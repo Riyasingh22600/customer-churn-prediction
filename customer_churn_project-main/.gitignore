@@ -1,0 +1,5 @@
+venv310/
+churnvenv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
